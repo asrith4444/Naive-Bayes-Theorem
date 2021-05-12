@@ -14,5 +14,7 @@ By finding the Max( P ( C | X ) ) results the probable outcome or target label f
 You can try this program with any kind of dataset, but header of the dataset is important for the program.
 If there is no header for the given dataset then it raise an error.
 
-**This program also biased to the class of the 1st row if and only if the given attributes are not present in the dataset.**<br/>
+**This program also biased to the class of the 1st row if and only if the given attributes are not present in the dataset.**<br/><br/>
+Modules used in this program are Pandas and Counter.<br/>
+Every line of the code is explained using the comments. So, go through the comments to understand the code.<br/>
 If there is any problem with the program, kindly raise an issue.
