@@ -1,0 +1,15 @@
+Age,Income,Student,CR,Buys
+Young,High,No,Fair,No
+Young,High,No,Good,No
+Middle,High,No,Fair,Yes
+Elder,Medium,No,Fair,Yes
+Elder,Low,Yes,Fair,Yes
+Elder,Low,Yes,Good,No
+Middle,Low,Yes,Good,Yes
+Young,Medium,No,Fair,No
+Young,Low,Yes,Fair,Yes
+Elder,Medium,Yes,Fair,Yes
+Young,Medium,Yes,Good,Yes
+Middle,Medium,No,Good,Yes
+Middle,High,Yes,Fair,Yes
+Elder,Medium,No,Good,No
